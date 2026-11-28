@@ -49,7 +49,7 @@ Medical Cost Personal Dataset (insurance.csv), 1,338 records with age, BMI, smok
 pip install -r requirements.txt
 python -m streamlit run app.py
 
-Team Members and Contributions
+TEAM MEMBERS AND COLLABORATIONS
 This project was collaboratively developed by three team members.
 
 
@@ -72,12 +72,6 @@ Application development using Python.
 Integration of the trained ML model.
 User input and prediction functionality.
 Application testing and documentation.
-Technologies Used
-Python
-NumPy
-Pandas
-Scikit-learn
-Matplotlib
-GitHub
+
 Team Collaboration
 All three members collaborated in developing, testing, and completing the Healthcare Cost Calculator project.
