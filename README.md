@@ -56,11 +56,15 @@ Dataset collection and understanding.
 Data cleaning and preprocessing.
 Exploratory Data Analysis.
 Feature preparation.
+
+
 Member 2 – Machine Learning Development
 Algorithm selection.
 Model training and testing.
 Model evaluation.
 Saving trained model and prediction columns.
+
+
 Member 3 – Application Development and Integration
 Application development using Python.
 Integration of the trained ML model.
