@@ -48,3 +48,5 @@ Medical Cost Personal Dataset (insurance.csv), 1,338 records with age, BMI, smok
 ## How to Run Locally
 pip install -r requirements.txt
 python -m streamlit run app.py
+
+
