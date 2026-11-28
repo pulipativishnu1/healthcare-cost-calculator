@@ -76,4 +76,62 @@ Application testing and documentation.
 Team Collaboration
 All three members collaborated in developing, testing, and completing the Healthcare Cost Calculator project.
 
+Dataset Collection and Preprocessing
+
+Module 1 – Data Preprocessing and Exploratory Data Analysis
+
+Objective
+
+To collect, understand, clean and preprocess the healthcare insurance dataset before applying machine learning algorithms.
+
+Dataset Description
+
+The dataset contains the following attributes:
+
+- Age
+- Sex
+- BMI
+- Children
+- Smoking Status
+- Region
+- Insurance Charges
+
+Tasks Completed
+
+1. Dataset collection.
+2. Dataset exploration.
+3. Missing value checking.
+4. Duplicate record identification and removal.
+5. Data cleaning.
+6. Categorical data standardization.
+7. Feature selection.
+8. Exploratory Data Analysis.
+9. Data visualization.
+
+Selected Features
+
+- Age
+- BMI
+- Smoking Status
+- Region
+
+Target Variable: Insurance Charges
+
+Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+Output
+
+The cleaned dataset and EDA visualizations are prepared for the machine learning model training module.
+
+Team Contribution
+
+Member 1: Dataset Collection, Data Cleaning, Preprocessing and EDA.
+
 
